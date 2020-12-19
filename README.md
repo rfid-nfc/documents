@@ -2,6 +2,9 @@
  
  ![NCKH](https://img.shields.io/badge/-NCKH-brightgreen) ![reference](https://img.shields.io/badge/-Reference-gray)
  
+ #Members
+ * Lê Thanh Sơn (https://facebook.com/lethanhson.wist0514)
+ 
  ## Danh mục (chính)
  
  * [Arduino](https://github.com/thanhson0514/NCKH/tree/main/arduino)
