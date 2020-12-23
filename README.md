@@ -10,7 +10,7 @@
 
 * [Lê Thanh Sơn](https://facebook.com/lethanhson.wist0514)
 * [Nguyễn Hải Nam](https://www.facebook.com/profile.php?id=100013968137720)
-
+* [Lâm Thị Kiều](https://www.facebook.com/kieu.li.1656)
 ## Danh mục (chính)
 
 * [Arduino](https://github.com/thanhson0514/NCKH/tree/main/arduino)
