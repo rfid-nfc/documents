@@ -10,6 +10,7 @@
 
 * [Lê Thanh Sơn](https://facebook.com/lethanhson.wist0514)
 * [Nguyễn Hải Nam](https://www.facebook.com/profile.php?id=100013968137720)
+* [Nguyễn Đắc Mạnh](https://www.facebook.com/profile.php?id=100010470428514)
 
 ## Danh mục (chính)
 
